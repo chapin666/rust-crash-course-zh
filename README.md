@@ -9,3 +9,7 @@ https://chapin666.gitbook.io/rust-crash-course-zh/
  
  https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course
  
+ ##
+
+>>对翻译或者交流可提交 Issues 
+ 
