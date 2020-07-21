@@ -3,7 +3,7 @@
 
 **翻译：**
  
- https://v56b87.gitbook.io/rust-crash-course-zh
+https://chapin666.gitbook.io/rust-crash-course-zh/
  
  **原文：**
  
